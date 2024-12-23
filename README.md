@@ -31,7 +31,7 @@
 * 관리자가 커피 가격과 커피명을 정하고 개수를 입력한다.
 * 소비자가 커피를 구매하는데 잔돈이 나와야 함
 * 판매 종료 후 관리자가 커피 판매한 총액을 파악해야 함
-* [작업진행중 별도 파일]()
+* [작업진행중 별도 파일](https://github.com/jsKim-prog/pythonStudy24/blob/master/Mission_While.ipynb)
 ```
 admin = {'id':'admin', 'pw': 'admin'} #관리자 계정
 products = [] #상품들 넣을 리스트
