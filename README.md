@@ -45,3 +45,13 @@
 * 판매 종료 후 관리자가 커피 판매한 총액을 파악해야 함
 * [최종파일:링크 클릭](https://github.com/jsKim-prog/pythonStudy24/blob/master/Mission_While.ipynb)
 
+### ✔️함수
+* 매개변수(parameter) : 매개변수는 함수에 입력으로 전달된 값
+* 인수(arguments) : 함수를 호출할 때 전달하는 입력값
+  ```
+  def add(매개변수1, 매개변수2):
+  add(인수1, 인수2)
+  ```
+## 🧲 관례적 표현 모음  
+* 변수명, 함수명 : _로 연결(java : funcName / python : func_name)
+
