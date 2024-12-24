@@ -64,6 +64,12 @@
   ```
   def __init__() :
   ```
+> 🏷️ Colab에서 .py 업로드 및 파일실행
+>
+> <img src="https://github.com/user-attachments/assets/5ddc1c5b-e7e3-437e-b382-bc14f4832f6d" height="30px"> → <img src="https://github.com/user-attachments/assets/6bbf0536-99b0-4dcf-9061-9266f627f74e" height="30px">
+>
+> `!python 파일명`
+  
 
 ### 🗂️[python-exam] : 모듈, 패키지
 * [branch 바로가기](https://github.com/jsKim-prog/pythonStudy24/tree/pycharm_study)
