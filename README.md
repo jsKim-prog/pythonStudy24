@@ -54,7 +54,7 @@
   ```
 ### ✔️ClassExam : 클래스
 * 클래스 호출
-* ![image](https://github.com/user-attachments/assets/752c81d0-89a3-483e-a734-bcdee79ec726)
+ ![image](https://github.com/user-attachments/assets/752c81d0-89a3-483e-a734-bcdee79ec726)
 * 클래스 상속
   ```
   class 클래스_이름(상속할_클래스_이름)
@@ -63,6 +63,9 @@
   ```
   def __init__() :
   ```
+
+### 🗂️[python-exam] : 모듈, 패키지
+* [branch 바로가기](https://github.com/jsKim-prog/pythonStudy24/tree/pycharm_study)
   
 
   
