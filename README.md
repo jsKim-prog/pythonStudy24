@@ -16,15 +16,15 @@
   ```
 * 다른 디렉토리 모듈 불러오기
   1. sys.path.append
-     ```
+     ```python
      # 파이썬 쉘, cmd
      C:\doit>python
-     >>> import sys
+     >>> import sys # 윈도우에서 쓸 수 있는 명령어 가져오기
      >>> sys.path  #  파이썬 라이브러리가 설치되어 있는 디렉터리를 확인
      >>> sys.path.append("C:/doit/mymod") # import할 디렉토리 추가
      ```
    2. PYTHONPATH 환경 변수 사용
-      ```
+      ```python
       C:\doit>set PYTHONPATH=C:\doit\mymod
       C:\doit>python
       >>> import mod2
